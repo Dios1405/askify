@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+venv/
+db.sqlite3
+node_modules/
+frontend/build/
+.env
+.env.production
+.DS_Store
